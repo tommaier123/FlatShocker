@@ -53,23 +53,22 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ---
 
 ## Assembly Instructions
-1. Gently sand the top of the USB port hole where the support was attached. Check fit with the USB port **from the outside** until it just fits.
-2. Insert the USB port from the inside. The solder pins should go up and the resistors down (You will need a bit of force)
+1. Gently sand the top of the USB port hole where the support was attached. Check fit with the USB port **from the outside** until it just fits
+2. Insert the USB port from the inside. The solder pins should go up and the resistors down (you will need a bit of force)
 3. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
-4. Optionally put in the TPU plug from the outside
+4. (Optional) put in the TPU plug from the outside
 5. Take the PCB and gently remove the battery
 6. Desolder both springs originally used for charging
 7. Connect thin wires to the pins where the springs were connected and feed them through the hole in the PCB
 8. Check polarity using a multimeter: the big spring was negative and the small spring positive
 9. Connect to the USB port accordingly. The outer small gold contact on the side marked with **V** is positive
-10. Solder wires to the stainless steel discs
+10. (Optional) lightly sand the top side of the discs for better soldering and glue adhesion (might be unnecessary)
+11. Solder thicker wires to the stainless steel discs
 
     (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc)
-12. Put the wires through the electrode holes and solder them directly to the shocker prongs (no need to desolder them)
-13. Put the electrodes in their holes
-14. Arrange the wires so the vibrator can spin freely
-15. Bend the antenna to clear the USB port
-16. Assemble the case to test the fit
+12. Put the wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them)
+13. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely
+15. Bend the antenna to clear the USB port and assemble the case to test if everything fits
 17. Glue in the electrode discs from the inside using thin super glue
 18. Screw the case together
 19. **Enjoy** 😸

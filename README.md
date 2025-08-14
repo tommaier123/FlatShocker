@@ -3,7 +3,7 @@
 This project aims to improve OpenShock shockers by replacing the stock electrodes that are designed for dogs, not humans.  
 By using a custom 3D-printed bottom case, we remove the need for a spacer, making the shocker flatter and more comfortable.
 
-<img src="https://github.com/tommaier123/FlatShocker/blob/master/Pictures/FlatShocker.jpg" height="25"/>
+<img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/FlatShocker.jpg" height="200"/> <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/HeightComparison.jpg" height="200"/>
 
 ---
 
@@ -18,22 +18,21 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ## What You Lose
 - Water tightness. But it's still water resistant - just don't go swimming with it
 
-<img src="https://github.com/tommaier123/FlatShocker/blob/master/Pictures/HeightComparison.jpg" height="25"/>
-
 ---
 
 ## Bill of Materials
 - 1× USB-C port [AliExpress link](https://de.aliexpress.com/item/1005008942189266.html) (There are two versions, both work)
-  <img src="https://github.com/tommaier123/FlatShocker/blob/master/Pictures/USBC.png" height="25"/>
+
+  <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/USBC.png" height="150"/>
 - 2× 15 mm stainless steel discs [AliExpress link](https://de.aliexpress.com/item/1005006358455017.html)  
-  (Thickness: 1.4 mm. Both stainless steel and gold-plated versions work; gold-plated may be better for skin contact)
+  (Thickness: 1.4 mm. Both stainless steel and gold-plated versions work, gold-plated may be better for skin contact)
 
 ---
 
 ## Printed Parts
 - Case in PLA
 - Clip in PLA
-- Plug in 95A TPU *(optional)*
+- Plug in 95A TPU (optional)
 
 ---
 
@@ -43,13 +42,13 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 - 0.1 mm layer height
 - 15% infill
 - Supports only on build plate
-- Support angle below 45° *(only the strap loops and the upper part of the USB port should be supported)*
+- Support overhang angle below 45° (only the strap loops and the upper part of the USB port should be supported)
+
+<img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/Slice.png" height="200"/>
 
 **Optional:**
 - Concentric bottom layer looks nice
 - Satin or smooth build plate
-
-<img src="https://github.com/tommaier123/FlatShocker/blob/master/Pictures/Slice.png" height="25"/>
 
 ---
 
@@ -64,7 +63,8 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 8. Check polarity using a multimeter: the big spring was negative and the small spring positive
 9. Connect to the USB port accordingly. The outer small gold contact on the side marked with **V** is positive
 10. Solder wires to the stainless steel discs
-    (Tip: I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc.)
+
+    (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc)
 12. Put the wires through the electrode holes and solder them directly to the shocker prongs (no need to desolder them)
 13. Put the electrodes in their holes
 14. Arrange the wires so the vibrator can spin freely

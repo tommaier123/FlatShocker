@@ -14,6 +14,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 
 ## What You Keep
 - Full functionality including Shock, Vibrate, and Beep
+- Same shocker strength (if not slightly stronger)
 
 ## What You Lose
 - Water tightness. But it's still water resistant - just don't go swimming with it

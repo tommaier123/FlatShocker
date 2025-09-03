@@ -76,5 +76,9 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 
 ---
 
+## Contact
+
+Discord: Nova_Max
+
 ## Commercial Use
 If you plan to use this design or any part of it for **commercial purposes**, please **contact me first**

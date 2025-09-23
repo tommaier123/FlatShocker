@@ -75,8 +75,11 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 14. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely
 15. Bend the antenna to clear the USB port and assemble the case to test if everything fits
 17. Glue in the electrode discs from the inside using thin super glue
-18. Screw the case together
-19. **Enjoy** 😸
+
+    <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/InternalOverview.jpg" height="250"/>
+    
+19. Screw the case together
+20. **Enjoy** 😸
 
 ---
 

@@ -59,15 +59,16 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 3. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
 4. (Optional) put in the TPU plug from the outside
 5. Take the PCB and gently remove the battery
-6. Desolder both springs originally used for charging
-7. Connect thin wires to the pins where the springs were connected and feed them through the hole in the PCB
-8. Check polarity (see picture): the big spring was negative and the small spring positive
+6. (optional) for safety desolder the battery
+7. Desolder both springs originally used for charging. If you have trouble desoldering the big one you can alternatively cut it
+8. Connect thin wires to the pins where the springs were connected and feed them through the hole in the PCB
+9. Check polarity (see picture): the big spring was negative and the small spring positive
 
     <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/PowerConnection.jpg" height="150"/>
 
 10. Connect to the USB port accordingly. The outer small gold contact on the side marked with **V** is positive
 11. (Optional) lightly sand the top side of the discs for better soldering and glue adhesion (might be unnecessary)
-12. Solder thicker wires to the stainless steel discs
+12. Solder thicker wires to the stainless steel discs. Keep the solder spot as thin as possible
 
     (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc)
 

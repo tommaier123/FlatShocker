@@ -10,7 +10,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ## What You Gain by Doing This Modification
 - Decrease total shocker height by 1.3 cm
 - USB-C charging
-- Color customization
+- Customization (color, text, ...)
 
 ## What You Keep
 - Full functionality including Shock, Vibrate, and Beep

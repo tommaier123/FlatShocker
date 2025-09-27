@@ -38,7 +38,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ---
 
 ## Printing Tips
-(Tested on Prusa Core One and Bambulab H2D)
+(Tested on Prusa Core One and Bambulab H2D and A1)
 - 0.4 mm nozzle
 - 0.1 mm layer height
 - 15% infill

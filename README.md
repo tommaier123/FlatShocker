@@ -26,7 +26,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 
   <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/USBC.png" height="150"/>
 - 2× 15 mm stainless steel discs [AliExpress link](https://de.aliexpress.com/item/1005006358455017.html)  
-  (Thickness: 1.4 mm. Both stainless steel and gold-plated versions work, gold-plated may be better for skin contact)
+  (Thickness: 1.4 mm. **Only the gold-plated version works, the raw steel is impossible to solder**)
 
 ---
 

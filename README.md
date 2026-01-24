@@ -3,7 +3,7 @@
 This project aims to improve OpenShock shockers by replacing the stock electrodes that are designed for dogs, not humans.  
 By using a custom 3D-printed bottom case, we remove the need for a spacer, making the shocker flatter and more comfortable.
 
-<img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/FlatShocker.jpg" height="200"/> <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/HeightComparison.jpg" height="200"/>
+<img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/FlatShocker.jpg" height="200"/> <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/HeightComparison.jpg" height="200"/> <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/Top.jpg" height="200"/>
 
 ---
 
@@ -18,6 +18,12 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 
 ## What You Lose
 - Water tightness. But it's still water resistant - just don't go swimming with it
+
+## Optional Top
+- Print the top for a fully customized shocker
+- There are two versions: the standard one and one with an embossed lightning bolt for the LEDs. How it looks depends a lot on the material. If its too translucent everything glows and if it's too opaque you don't see anything
+- You may use the rubber gasket from the original top but it's probably not necessary
+- The top is fully compatible with the stock bottom. So you can also use it without having a FlatShocker
 
 ---
 
@@ -43,14 +49,13 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 - 0.1 mm layer height
 - 15% infill
 - Supports only on build plate
-- Support overhang angle below 45° (only the strap loops and the upper part of the USB port should be supported)
+- Support overhang angle below 30° (only the strap loops and the upper part of the USB port should be supported)
 
 <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/Slice.png" height="200"/>
 
 **Optional:**
 - Concentric bottom layer looks nice
 - Satin or smooth build plate
-
 ---
 
 ## Assembly Instructions

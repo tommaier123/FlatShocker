@@ -10,7 +10,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ## What You Gain by Doing This Modification
 - Decrease total shocker height by 1.3 cm
 - USB-C charging
-- Color customization
+- Customization (color, text, ...)
 
 ## What You Keep
 - Full functionality including Shock, Vibrate, and Beep
@@ -22,11 +22,11 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ---
 
 ## Bill of Materials
-- 1× USB-C port [AliExpress link](https://de.aliexpress.com/item/1005008942189266.html) (There are two versions, both work)
+- 1× USB-C port [AliExpress link](https://de.aliexpress.com/item/1005008942189266.html) or [AliExpress link](https://de.aliexpress.com/item/1005010064075298.html) (There are two versions, both work) (look around there might be a cheaper listing)
 
   <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/USBC.png" height="150"/>
 - 2× 15 mm stainless steel discs [AliExpress link](https://de.aliexpress.com/item/1005006358455017.html)  
-  (Thickness: 1.4 mm. Both stainless steel and gold-plated versions work, gold-plated may be better for skin contact)
+  (Thickness: 1.4 mm. **The gold-plated version is highly recommended, the raw steel is almost impossible to solder**)
 
 ---
 
@@ -38,7 +38,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ---
 
 ## Printing Tips
-(Tested on Prusa Core One and Bambulab H2D)
+(Tested on Prusa Core One and Bambulab H2D and A1)
 - 0.4 mm nozzle
 - 0.1 mm layer height
 - 15% infill
@@ -54,32 +54,32 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 ---
 
 ## Assembly Instructions
-1. Gently sand the top of the USB port hole where the support was attached. Check fit with the USB port **from the outside** until it just fits
+1. Gently file the top of the USB port hole where the support was attached. Check fit with the USB port **from the outside** until it just fits
 2. Insert the USB port from the inside. The solder pins should go up and the resistors down (you will need a bit of force)
 3. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
 4. (Optional) put in the TPU plug from the outside
 5. Take the PCB and gently remove the battery
-6. Desolder both springs originally used for charging
-7. Connect thin wires to the pins where the springs were connected and feed them through the hole in the PCB
-8. Check polarity (see picture): the big spring was negative and the small spring positive
+6. (Optional) for safety desolder the battery
+7. Desolder both springs originally used for charging. If you have trouble desoldering the big one you can alternatively cut it
+8. Connect thin wires (e.g. 30AWG for wire wrapping) to the pins where the springs were connected and feed them through the hole in the PCB
+9. Check polarity (see picture): the big spring was negative and the small spring positive
 
     <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/PowerConnection.jpg" height="150"/>
 
 10. Connect to the USB port accordingly. The outer small gold contact on the side marked with **V** is positive
-11. (Optional) lightly sand the top side of the discs for better soldering and glue adhesion (might be unnecessary)
-12. Solder thicker wires to the stainless steel discs
+11. Solder thicker wires (e.g. 22AWG) to the stainless steel discs. Keep the solder spot as thin as possible
 
-    (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc)
+    (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc. Don't sand the disc before soldering.)
 
-13. Put the wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them)
-14. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely
-15. Bend the antenna to clear the USB port and assemble the case to test if everything fits
-17. Glue in the electrode discs from the inside using thin super glue
+12. Put the wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them)
+13. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely
+14. Bend the antenna to clear the USB port and assemble the case to test if everything fits
+15. Glue in the electrode discs from the inside using thin super glue
 
     <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/InternalOverview.jpg" height="250"/>
     
-19. Screw the case together
-20. **Enjoy** 😸
+16. Screw the case together
+17. **Enjoy** 😸
 
 ---
 

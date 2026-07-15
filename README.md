@@ -60,31 +60,43 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 
 ## Assembly Instructions
 1. Gently file the top of the USB port hole where the support was attached. Check fit with the USB port **from the outside** until it just fits
-2. Insert the USB port from the inside. The solder pins should go up and the resistors down (you will need a bit of force)
-3. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
-4. (Optional) put in the TPU plug from the outside
-5. Take the PCB and gently remove the battery
-6. (Optional) for safety desolder the battery
-7. Desolder both springs originally used for charging. If you have trouble desoldering the big one you can alternatively cut it
-8. Connect thin wires (e.g. 30AWG for wire wrapping) to the pins where the springs were connected and feed them through the hole in the PCB
-9. Check polarity (see picture): the big spring was negative and the small spring positive
-
+2. (Optional) put in the TPU plug from the outside
+3. Solder two thin wires (e.g. 30AWG for wire wrapping) to the USB port, the gold contact next to **V** is positive, you can use either of the negative pins
+   
+  <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/USBC.png" height="150"/>
+  
+4. Solder thicker wires (e.g. 22AWG) to the stainless steel discs. Keep the solder spot as thin as possible. Following are some tips to make it easier:
+   - Clean the discs with alcohol (ethanol, isopropanol)
+   - Don't sand the discs
+   - Put them on a heat resistant surface (cardboard)
+   - Use leaded solder (Optional)
+   - Put solder on the iron and let the flux burn off
+   - Place the soldering iron on the disc without moving until the solder starts to wet the disc
+   - Move the tip to spread it thinly
+   - Once this is done immediately remove the soldering iron
+   - Now you can solder the pre-tinned wires to the solder spots on the discs
+5. Disassemble the shocker
+6. Take out the PCB and gently remove the battery
+7. Desolder the battery for safety
+8. Desolder both springs originally used for charging. If you have trouble desoldering the big one you can alternatively cut it
+9. Feed the USB port wires through the hole in the PCB and solder them to the pins where the springs were connected. (You can leave the cables a bit longer for easier handling)
+    
     <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/PowerConnection.jpg" height="150"/>
-
-10. Connect to the USB port accordingly. The outer small gold contact on the side marked with **V** is positive
-11. Solder thicker wires (e.g. 22AWG) to the stainless steel discs. Keep the solder spot as thin as possible
-
-    (I had some problems with flux, so I first put solder on the soldering tip, waited for the flux to burn off, then applied it to the disc. Don't sand the disc before soldering.)
-
-12. Put the wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them)
-13. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely
-14. Bend the antenna to clear the USB port and assemble the case to test if everything fits
-15. Glue in the electrode discs from the inside using thin super glue
+    
+10. Check polarity (see picture): the big spring was negative and the small spring positive
+11. Insert the USB port into the case from the inside. The solder pins should go up and the resistors down (you will need a bit of force)
+12. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
+13. Put the disc wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them) (trim the wires short, they can get in the way during assembly otherwise)
+14. Solder the battery back where it was
+15. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely and the button is not blocked
+16. Bend the antenna to clear the USB port and assemble the case to test if everything fits
+17. Test if the schocker charges through the USB port
+18. Glue in the electrode discs from the inside using thin super glue
 
     <img src="https://github.com/tommaier123/FlatShocker/blob/main/Pictures/InternalOverview.jpg" height="250"/>
     
-16. Screw the case together
-17. **Enjoy** 😸
+19. Screw the case together
+20. **Enjoy** 😸
 
 ---
 

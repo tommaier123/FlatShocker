@@ -87,7 +87,7 @@ By using a custom 3D-printed bottom case, we remove the need for a spacer, makin
 11. Insert the USB port into the case from the inside. The solder pins should go up and the resistors down (you will need a bit of force)
 12. Move the USB port all the way back and secure it from the inside using the 3D-printed clip
 13. Put the disc wires through the electrode holes and solder them directly to the shocker contacts (no need to desolder them) (trim the wires short, they can get in the way during assembly otherwise)
-14. Solder the battery back where it was
+14. Solder the battery back where it was. **It beeps when you reconnect it**
 15. Put the electrodes in their holes and arrange the wires so the vibrator can spin freely and the button is not blocked
 16. Bend the antenna to clear the USB port and assemble the case to test if everything fits
 17. Test if the schocker charges through the USB port
